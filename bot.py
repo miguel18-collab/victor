@@ -237,6 +237,7 @@ dias_espanol = {
     'Friday': 'Viernes',
     'Saturday': 'Sábado',
     'Sunday': 'Domingo'
+    
 }
 
 df_consolidado['dia_semana'] = df_consolidado['fecha_dt'].dt.day_name().map(dias_espanol)
