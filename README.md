@@ -18,4 +18,15 @@ Su objetivo es ayudar a practicar conceptos básicos de Git, Python y Markdown d
 3.  Ejecuta el archivo principal con:  
    
     python bot.py
+
+4. ## Resultados y hallazgos
+Durante las pruebas se obtuvieron los siguientes resultados:
+
+| Caso | Resultado |
+|------|-----------|
+| Test 1 | OK |
+| Test 2 | Falló |
+| Test 3 | OK |
+
+Esto muestra que el código funciona en la mayoría de los casos, pero aún necesita mejoras.
  
